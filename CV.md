@@ -3,9 +3,9 @@
 
 
 ## Future Frontend Developer
----
 
-**Contact information:**
+
+**Contact information:**  
 - **Phone:** +375 29 114 3604
 + **E-mail:** egorushka.sova@gmail.com
 * **Telegram:** @YahorSav
@@ -26,15 +26,15 @@ I believe, that my ability to learn and to gain new skills will lead me through 
 * VS Code
 ---
 
-**Code example:**
+**Code example:**  
 **Task from Codewars:** *Write a function "greet" that returns "hello world!"*
 
-`function greet () {
-  return"hello world!";
+`function greet () {  
+  return"hello world!";  
 }`
 ---
 
-**My training:**
+**My training:**  
 Third-year student at BSUIR majoring in computer engineering.
 ---
 
