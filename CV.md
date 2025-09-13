@@ -1,3 +1,8 @@
+---
+layout: default
+title: CVMD
+permalink: /cvmd
+---
 # Yahor Savitski
 ![profile picture](image.png)
 ## Future Frontend Developer
