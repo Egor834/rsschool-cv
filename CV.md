@@ -1,7 +1,7 @@
 ---
 layout: default
-title: CVMD
-permalink: /cvmd
+title: cv
+permalink: /cv
 ---
 # Yahor Savitski
 ![profile picture](image.png)
