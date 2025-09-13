@@ -1,1 +1,1 @@
-[https://egor834.github.io/rsschool-cv/cv](/cv)
+[https://egor834.github.io/rsschool-cv/cv](https://github.com/Egor834/rsschool-cv/blob/gh-pages/CV.md)
